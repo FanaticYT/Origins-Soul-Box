@@ -1,0 +1,22 @@
+
+// Scripts
+scriptparsetree,scripts\fanatic\origins_soul_box\origins_soul_box.gsc
+scriptparsetree,scripts\fanatic\origins_soul_box\origins_soul_box.csc
+
+// Models
+xmodel,ori_soul_box
+xmodel,ori_soul_box_on
+xmodel,ori_soul_box_soul_on
+xmodel,ori_challenge_box
+xmodel,perk_bottle_gold
+
+// Anims
+rawfile,animtrees/ori_soul_box_anims.atr
+xanim,ori_soul_box_open_anim
+xanim,ori_soul_box_close_anim
+
+// FX
+fx,dlc5/zmb_weapon/fx_staff_charge_souls
+fx,dlc5/zmb_weapon/fx_staff_charge
+fx,dlc5/tomb/fx_tomb_challenge_fire
+fx,dlc1/castle/fx_dust_landingpad
